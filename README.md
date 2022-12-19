@@ -1,0 +1,1 @@
+This is my bachelor's thesis. This is only a part of the project which was designed by me. It only represents the algorithm and doesn´t not work without database, but parameters can be added manually.
