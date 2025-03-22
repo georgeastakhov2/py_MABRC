@@ -1,1 +1,1 @@
-This is my bachelor's thesis. This is only a part of the project which was designed by me. It only represents the algorithm and doesn´t not work without database, but parameters can be added manually.
+This excerpt is from my bachelor's thesis. It presents a standalone algorithm, originally part of a larger, database-integrated project. While functional parameters can be manually input, full operation requires database connectivity.
